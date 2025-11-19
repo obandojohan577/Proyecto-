@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cardWhale" type="id" />
+    <item name="cardMonkey" type="id" />
+    <item name="cardSnake" type="id" />
+    <item name="editTextUser" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="buttonLogin" type="id" />
+</resources>

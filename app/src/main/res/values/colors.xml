@@ -1,0 +1,13 @@
+<!-- REEMPLAZA TODO EL CONTENIDO DE colors.xml CON ESTO -->
+<resources>
+    <!-- Colores primarios de la App (tema ecológico) -->
+    <color name="primary_green">#2E7D32</color>  <!-- Verde oscuro para barras y botones -->
+    <color name="secondary_green">#66BB6A</color> <!-- Verde más claro para acentos -->
+    <color name="background_light">#F5F5F5</color> <!-- Fondo claro para las pantallas -->
+    <color name="text_dark">#212121</color>      <!-- Color de texto principal -->
+    <color name="text_light">#FFFFFF</color>     <!-- Color de texto para fondos oscuros -->
+
+    <!-- Colores estándar, mantenlos por si acaso -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

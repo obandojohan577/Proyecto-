@@ -1,0 +1,48 @@
+<!-- REEMPLAZA TODO EL CONTENIDO DE strings.xml CON ESTO -->
+<resources>
+    <!-- Nombre de la App -->
+    <string name="app_name">Isla Gorgona</string>
+
+    <!-- Textos Pantalla Login -->
+    <string name="login_title">Bienvenido a Isla Gorgona</string>
+    <string name="hint_user">Correo Electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="button_login">Ingresar</string>
+    <string name="login_error">Error en el inicio de sesión.</string>
+    <string name="login_success">Inicio de sesión exitoso.</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="fill_all_fields">Por favor, rellena todos los campos.</string>
+
+    <!-- Textos Pantalla Registro -->
+    <string name="register_title">Registrar Nuevo Usuario</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_last_name">Apellidos</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="button_register">Registrar</string>
+    <string name="register_success">Registro exitoso.</string>
+    <string name="register_fail">Error en el registro.</string>
+    <string name="save_user_data_fail">Error al guardar los datos del usuario.</string>
+
+    <!-- Textos Pantalla Principal (Main) -->
+    <string name="main_title">Parque Nacional Natural Gorgona</string>
+    <string name="main_description">Gorgona es un tesoro de biodiversidad y un lugar con una historia única. Antes una prisión de máxima seguridad, hoy es un santuario para la vida silvestre y un paraíso para la investigación científica y el ecoturismo.</string>
+    <string name="button_history">Historia de la Cárcel</string>
+    <string name="button_species">Especies Representativas</string>
+    <string name="button_logout">Cerrar Sesión</string>
+
+    <!-- Textos Pantalla Historia -->
+    <string name="history_title">La Cárcel de Gorgona</string>
+    <string name="history_content">La prisión de Gorgona funcionó entre 1960 y 1984. Era conocida como la \"Alcatraz colombiana\" por su seguridad y aislamiento. Los reclusos vivían en condiciones duras, rodeados por el mar y la selva. Hoy, sus ruinas son un testimonio silencioso de su pasado.</string>
+    <string name="button_back">Volver</string>
+
+    <!-- Textos Pantalla Especies -->
+    <string name="species_title">Fauna de Gorgona</string>
+    <string name="species_whale">Ballena Jorobada</string>
+    <string name="species_monkey">Mono Cariblanco</string>
+    <string name="species_snake">Serpiente Coral</string>
+
+    <!-- Textos Pantalla Detalle Especie -->
+    <string name="whale_description">La ballena jorobada (Megaptera novaeangliae) visita las aguas cálidas de Gorgona cada año entre junio y octubre para reproducirse y dar a luz a sus crías. Son famosas por sus espectaculares saltos y sus complejos cantos.</string>
+    <string name="monkey_description">El mono capuchino cariblanco (Cebus capucinus) es un primate inteligente y social que habita en los árboles de la isla. Se les puede ver en grupos familiares buscando frutas e insectos en la selva.</string>
+    <string name="snake_description">La serpiente coral (Micrurus mipartitus) es una de las muchas especies de reptiles de la isla. Aunque es venenosa, no es agresiva. Sus anillos de colores brillantes (rojo, amarillo, negro) advierten a los depredadores de su peligrosidad.</string>
+</resources>

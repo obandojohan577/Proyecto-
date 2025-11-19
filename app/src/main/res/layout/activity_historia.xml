@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/primary_green"
+    tools:context=".HistoriaActivity">
+
+    <TextView
+        android:id="@+id/historyTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/history_title"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginBottom="16dp"/>
+
+    <ImageView
+        android:id="@+id/historyImage"
+        android:layout_width="match_parent"
+        android:layout_height="296dp"
+        android:layout_marginBottom="16dp"
+        android:contentDescription="@string/history_title"
+        android:scaleType="centerCrop"
+        android:src="@drawable/historia" />
+
+    <TextView
+        android:id="@+id/historyContent"
+        android:layout_width="match_parent"
+        android:layout_height="228dp"
+        android:layout_marginBottom="24dp"
+        android:text="@string/history_content"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/buttonBackHistory"
+        android:layout_width="133dp"
+        android:layout_height="42dp"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/secondary_green"
+        android:text="@string/button_back" />
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771393983162",
+    "project_id": "islagorgonaap",
+    "storage_bucket": "islagorgonaap.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771393983162:android:48fe9c6835bb0ebd22a883",
+        "android_client_info": {
+          "package_name": "com.example.islagorgonaap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZFc5HYeCS3iel6YirlcMWnko-wawerTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
