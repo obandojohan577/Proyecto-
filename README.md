@@ -1,4 +1,3 @@
-Aquí tienes **la explicación completa, clara y paso a paso** de **cómo correr tu aplicación en Android Studio** y **cómo instalarla y ejecutarla desde tu celular físico**.
 
 ---
 
@@ -124,6 +123,5 @@ Si te dice “instalación bloqueada”, activa:
 
 ---
 
-# ✅ ¿Quieres que también te haga un tutorial en PDF o en Word con imágenes paso a paso?
 
 
